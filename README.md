@@ -1,6 +1,6 @@
 # README
 
-API creada para pruebas de Meru Enero 2024
+Enero 2024
 Realizada por: giselleandrea 
 
 ## Dependencias
